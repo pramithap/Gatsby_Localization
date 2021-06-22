@@ -17,7 +17,13 @@
   "dependencies": {
     "gatsby": "^3.6.2",
     "gatsby-plugin-gatsby-cloud": "^2.7.1",
+    "gatsby-plugin-react-i18next": "^1.1.1",
+    "gatsby-source-filesystem": "^3.7.1",
+    "i18next": "^20.3.2",
+    "moment": "^2.29.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-i18next": "^11.11.0",
+    "react-moment": "^1.1.1"
   }
 }
